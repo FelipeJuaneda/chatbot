@@ -33,7 +33,7 @@ Asegúrate de tener instalado lo siguiente:
 
    ```bash
    git clone https://github.com/FelipeJuaneda/chatbot.git
-   cd chatbot-simple-react
+   cd chatbot
 
 2. Instala las dependencias:
 
